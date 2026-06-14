@@ -29,5 +29,7 @@ Origen → Consulta → Ejecución
 var clientes =
 
 db.Customers
+
 .Where(c=>c.Country=="USA")
+
 .OrderBy(c=>c.CompanyName);
