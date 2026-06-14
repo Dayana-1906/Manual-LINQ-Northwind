@@ -18,6 +18,6 @@ Suppliers
 
 [← Arquitectura](arquitectura.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Implementación](implementacion.md)
