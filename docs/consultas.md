@@ -28,9 +28,11 @@ Acceso Datos
 Northwind
 
 ***Flujo:***
+
 Usuario → Negocio → LINQ → Datos → Resultado
 
 ***BUENAS PRÁCTICAS***
+
 No consultar desde UI.
 
 Evitar consultas repetidas.
