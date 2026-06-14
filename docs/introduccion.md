@@ -34,3 +34,5 @@ Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utili
 - Integrar consultas dentro de la capa de negocio.
 - Optimizar acceso a datos.
 - Documentar el proceso mediante GitHub Pages.
+
+![Proyecto LINQ](assets/img/portada.png)
