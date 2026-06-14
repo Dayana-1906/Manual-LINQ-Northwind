@@ -45,6 +45,6 @@ Aplicar principio SOLID.
 
 [← Implementación](implementacion.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Conclusiones](conclusiones.md)
