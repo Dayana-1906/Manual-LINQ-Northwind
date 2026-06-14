@@ -36,3 +36,9 @@ Order.cs
 Product.cs
 
 ![Arquitectura](assets/img/arquitectura4capas.png)
+
+[← Marco Teórico](teoria.md)
+
+[🏠 Inicio](indice.md)
+
+[Siguiente → Northwind](northwind.md)
