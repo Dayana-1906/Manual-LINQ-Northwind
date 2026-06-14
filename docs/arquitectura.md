@@ -34,3 +34,5 @@ Customer.cs
 Order.cs
 
 Product.cs
+
+![Arquitectura](assets/img/arquitectura4capas.png)
