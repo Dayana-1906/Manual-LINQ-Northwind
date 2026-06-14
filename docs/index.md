@@ -2,10 +2,10 @@
 ## Dayana Lozada 
 ## Descripción Este manual documenta el uso de LINQ dentro de una arquitectura multicapa implementada en C# utilizando la base de datos Northwind. 
 ## Contenido 
-- Introducción
-- Marco Teórico
-- Arquitectura
-- Northwind
-- Implementación
-- Consultas
-- Conclusiones
+- [Introducción](introduccion.md)
+- [Marco Teórico](teoria.md)
+- [Arquitectura](arquitectura.md)
+- [Northwind](northwind.md)
+- [Implementación](implementacion.md)
+- [Consultas](consultas.md)
+- [Conclusiones](conclusiones.md)
