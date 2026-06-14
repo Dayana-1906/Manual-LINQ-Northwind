@@ -33,3 +33,10 @@ db.Customers
 .Where(c=>c.Country=="USA")
 
 .OrderBy(c=>c.CompanyName);
+
+[← Introducción](introduccion.md)
+
+[🏠 Inicio](indice.md)
+
+[Siguiente → Arquitectura](arquitectura.md)
+
