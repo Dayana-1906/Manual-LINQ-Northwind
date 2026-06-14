@@ -1,4 +1,4 @@
-***1.Capa Presentación***
+***1. Capa Presentación***
 
 Interacción usuario.
 
@@ -7,7 +7,7 @@ Funciones:
 - Mostrar datos.
 - Capturar eventos.
 
-***Capa Negocio***
+***2. Capa Negocio***
 
 Procesamiento.
 
@@ -16,7 +16,7 @@ Funciones:
 - Validaciones.
 - Aplicación reglas.
 
-***Capa Acceso Datos***
+***3. Capa Acceso Datos***
 
 Comunicación con Northwind.
 
@@ -25,7 +25,7 @@ Funciones:
 - CRUD
 - Consultas
 
-***Entidades***
+***4. Capa Entidades***
 
 Representación de tablas.
 
