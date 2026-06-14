@@ -1,4 +1,4 @@
-**Resumen**
+***Resumen***
 
 El presente manual documenta la implementación de Language Integrated Query (LINQ) dentro de una arquitectura multicapa desarrollada en C#, utilizando como fuente de datos la base Northwind.
 
@@ -9,7 +9,7 @@ Se presentan ejemplos prácticos orientados a operaciones reales sobre clientes,
 Palabras clave:
 LINQ, C#, Arquitectura Multicapa, Entity Framework, Acceso a Datos, Northwind.
 
-**Introducción**
+***Introducción***
 
 Actualmente las aplicaciones empresariales requieren mecanismos eficientes para consultar y transformar información.
 
