@@ -63,4 +63,8 @@ o.OrderDate
 
 ![Consulta JOIN](assets/img/linq_join.png)
 
+***Consulta con GROUPBY***
+
+![Consulta JOIN](assets/img/linq_groupby.png)
+
 
