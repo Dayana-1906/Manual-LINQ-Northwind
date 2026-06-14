@@ -69,6 +69,6 @@ o.OrderDate
 
 [← Northwind](northwind.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Consultas](consultas.md)
