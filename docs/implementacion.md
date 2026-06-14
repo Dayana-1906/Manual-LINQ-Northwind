@@ -67,4 +67,8 @@ o.OrderDate
 
 ![Consulta JOIN](assets/img/linq_groupby.png)
 
+[← Northwind](northwind.md)
 
+[🏠 Inicio](indice.md)
+
+[Siguiente → Consultas](consultas.md)
