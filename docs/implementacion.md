@@ -57,3 +57,5 @@ o.OrderDate
 
 ![Datos](assets/img/linq_datos.png)
 
+![Resultados](assets/img/linq_negocio.png)
+
