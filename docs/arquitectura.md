@@ -39,6 +39,6 @@ Product.cs
 
 [← Marco Teórico](teoria.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Northwind](northwind.md)
