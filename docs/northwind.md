@@ -13,3 +13,5 @@ Suppliers
 - Cliente → Pedido
 - Pedido → Detalle
 - Detalle → Producto
+
+![Base Northwind](assets/img/northwind_db.png)
