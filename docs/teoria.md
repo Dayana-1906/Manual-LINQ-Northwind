@@ -36,7 +36,7 @@ db.Customers
 
 [← Introducción](introduccion.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Arquitectura](arquitectura.md)
 
