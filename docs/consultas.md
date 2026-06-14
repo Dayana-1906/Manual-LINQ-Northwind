@@ -43,3 +43,8 @@ Documentar repositorios.
 
 Aplicar principio SOLID.
 
+[← Implementación](implementacion.md)
+
+[🏠 Inicio](indice.md)
+
+[Siguiente → Conclusiones](conclusiones.md)
