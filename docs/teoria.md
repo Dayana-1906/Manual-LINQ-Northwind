@@ -26,7 +26,7 @@ Origen → Consulta → Ejecución
 
 **Ejemplo:**
 
-´var clientes =
+var clientes =
 db.Customers
 .Where(c=>c.Country=="USA")
-.OrderBy(c=>c.CompanyName);´
+.OrderBy(c=>c.CompanyName);
