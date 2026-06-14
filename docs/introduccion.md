@@ -23,3 +23,14 @@ Su uso dentro de arquitecturas multicapa mejora:
 • Mantenimiento del sistema
 
 Para este manual se emplea la base Northwind como entorno de simulación empresarial.
+
+***Objetivo General***
+
+Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utilizando C# y Northwind.
+
+***Objetivos Específicos***
+
+- Comprender el modelo de LINQ.
+- Integrar consultas dentro de la capa de negocio.
+- Optimizar acceso a datos.
+- Documentar el proceso mediante GitHub Pages.
