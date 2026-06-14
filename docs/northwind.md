@@ -15,3 +15,9 @@ Suppliers
 - Detalle → Producto
 
 ![Base Northwind](assets/img/northwind_db.png)
+
+[← Arquitectura](arquitectura.md)
+
+[🏠 Inicio](indice.md)
+
+[Siguiente → Implementación](implementacion.md)
