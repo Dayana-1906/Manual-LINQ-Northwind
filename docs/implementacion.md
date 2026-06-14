@@ -59,3 +59,8 @@ o.OrderDate
 
 ![Resultados](assets/img/resultado_linq.png)
 
+***Consulta con JOIN***
+
+![Consulta JOIN](assets/img/linq_join.png)
+
+
