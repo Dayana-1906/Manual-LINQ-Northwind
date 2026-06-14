@@ -9,4 +9,4 @@ Su integración con Northwind permite implementar sistemas mantenibles y alinead
 
 [← Consultas](consultas.md)
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
