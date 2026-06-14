@@ -55,3 +55,5 @@ o.OrderDate
 
 };
 
+![Datos](assets/img/linq_datos.png)
+
