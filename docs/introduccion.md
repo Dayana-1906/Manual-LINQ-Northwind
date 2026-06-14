@@ -37,6 +37,6 @@ Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utili
 - Optimizar acceso a datos.
 - Documentar el proceso mediante GitHub Pages.
 
-[🏠 Inicio](indice.md)
+[🏠 Inicio](index.md)
 
 [Siguiente → Marco Teórico](teoria.md)
