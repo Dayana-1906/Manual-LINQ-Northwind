@@ -24,6 +24,8 @@ Su uso dentro de arquitecturas multicapa mejora:
 
 Para este manual se emplea la base Northwind como entorno de simulación empresarial.
 
+![Sistema ejecutándose](assets/img/sistema_funcionando.png)
+
 ***Objetivo General***
 
 Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utilizando C# y Northwind.
