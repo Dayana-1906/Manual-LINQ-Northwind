@@ -39,4 +39,4 @@ Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utili
 
 [🏠 Inicio](indice.md)
 
-[Siguiente → Marco Teórico](teoria.md)
+[Siguiente → Marco Teórico](teoría.md)
