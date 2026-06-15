@@ -37,6 +37,8 @@ Product.cs
 
 ![Sitio publicado](assets/img/arquitectura4capas.png)
 
+<img src="assets/img/arquitectura4capas.png" width="450">
+
 [← Marco Teórico](teoria.md)
 
 [🏠 Inicio](index.md)
