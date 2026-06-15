@@ -14,7 +14,7 @@
 | `Skip()` | Particionamiento | Omite una cantidad específica de elementos. |
 
 
-***INTEGRACIÓN ENTRE CAPAS***
+## ***INTEGRACIÓN ENTRE CAPAS***
 
 Presentación
 
@@ -30,11 +30,11 @@ Acceso Datos
 
 Northwind
 
-***Flujo:***
+## ***Flujo:***
 
 Usuario → Negocio → LINQ → Datos → Resultado
 
-***BUENAS PRÁCTICAS***
+## ***BUENAS PRÁCTICAS***
 
 No consultar desde UI.
 
