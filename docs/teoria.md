@@ -1,4 +1,4 @@
-***3.1 LINQ***
+## ***3.1 LINQ***
 
 LINQ (Language Integrated Query) permite consultar estructuras de datos mediante sintaxis integrada.
 
@@ -20,7 +20,7 @@ Consulta mediante Entity Framework.
 
 Procesamiento XML.
 
-***3.2 Componentes de LINQ***
+## ***3.2 Componentes de LINQ***
 
 Origen → Consulta → Ejecución
 
@@ -34,7 +34,7 @@ db.Customers
 
 .OrderBy(c=>c.CompanyName);
 
-***Componentes de una consulta LINQ***
+## ***Componentes de una consulta LINQ***
 
 1 Origen
 
@@ -50,7 +50,7 @@ clientes
 
 .Where(x=>x.Ciudad=="Quito");
 
-***Ejecución diferida***
+## ***Ejecución diferida***
 
 Deferred Execution
 
@@ -60,7 +60,7 @@ var consulta=
 
 clientes.Where(x=>x.Activo);
 
-***Ejecución inmediata***
+## ***Ejecución inmediata***
 
 .ToList()
 
@@ -68,11 +68,11 @@ clientes.Where(x=>x.Activo);
 
 .Count()
 
-***Lambda Expressions***
+## ***Lambda Expressions***
 
 x=>x.Nombre
 
-***Expresiones Lambda vs Query Syntax***
+## ***Expresiones Lambda vs Query Syntax***
 
 Comparar:
 
