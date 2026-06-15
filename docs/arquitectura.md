@@ -45,6 +45,11 @@ Product.cs
 | **Patrón Repository** | LINQ se utiliza dentro de los repositorios para consultar y filtrar datos, mientras que las demás capas consumen esos resultados sin conocer los detalles de acceso a datos. |
 | **Integración de LINQ** | LINQ se integra en la capa de negocio para procesar, filtrar, ordenar y transformar datos obtenidos desde la capa de datos antes de enviarlos a la interfaz de usuario. |
 
+### Patrón Repository
+
+Permite organizar el acceso a los datos en repositorios. LINQ se integra para realizar consultas de forma sencilla y mantener el código más limpio y mantenible.
+
+***Flujo de ejecución***
 <img src="assets/img/arquitectura4capas.png" width="250">
 
 [← Marco Teórico](teoria.md)
