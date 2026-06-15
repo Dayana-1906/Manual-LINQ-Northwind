@@ -1,4 +1,5 @@
 ## ***Tipos de Operadores mas usados***
+
 | Operador | Tipo de Operador | Descripción |
 |-----------|-----------------|-------------|
 | `Where()` | Filtrado | Filtra elementos según una condición. |
@@ -11,6 +12,7 @@
 | `Distinct()` | Conjunto | Elimina elementos duplicados. |
 | `Take()` | Particionamiento | Obtiene una cantidad específica de elementos. |
 | `Skip()` | Particionamiento | Omite una cantidad específica de elementos. |
+
 
 ***INTEGRACIÓN ENTRE CAPAS***
 
