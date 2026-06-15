@@ -22,7 +22,7 @@ Su uso dentro de arquitecturas multicapa mejora:
 • Legibilidad
 • Mantenimiento del sistema
 
-Problema que resuelve LINQ
+***Problema que resuelve LINQ***
 
 Antes:
 
@@ -35,7 +35,7 @@ Después:
 Consultas expresivas
 Menor código
 
-##Evolución del acceso a datos en .NET##
+***Evolución del acceso a datos en .NET***
 
 ADO.NET
 
@@ -51,7 +51,8 @@ Entity Framework
 
 LINQ + EF
 
-Beneficios de LINQ
+***Beneficios de LINQ***
+
 - Reducción de complejidad
 - Menos errores
 - Mayor mantenimiento
