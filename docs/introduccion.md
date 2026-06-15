@@ -24,7 +24,7 @@ Su uso dentro de arquitecturas multicapa mejora:
 
 Para este manual se emplea la base Northwind como entorno de simulación empresarial.
 
-<img src="assets/img/sistema_funcionando.png" width="350">
+<img src="assets/img/sistema_funcionando.png" width="450">
 
 ***Objetivo General***
 
