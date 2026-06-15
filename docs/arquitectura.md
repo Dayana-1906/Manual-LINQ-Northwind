@@ -35,7 +35,7 @@ Order.cs
 
 Product.cs
 
-<img src="activos/imagenes/arquitectura.png" width="450">
+<img src="activos/imagenes/arquitectura4capas.png" width="450">
 
 [← Marco Teórico](teoria.md)
 
