@@ -1,4 +1,6 @@
-***Entidades principales:***
+## ***Descripción del modelo Northwind***
+
+## ***Entidades principales:***
 
 Customers
 Orders
@@ -8,11 +10,16 @@ Categories
 Employees
 Suppliers
 
-***Relaciones:***
+## ***Relaciones:***
 
 - Cliente → Pedido
 - Pedido → Detalle
 - Detalle → Producto
+
+## ***Consultas empresariales posibles***
+- Clientes por país
+- Ventas por producto
+- Productos más vendidos
 
 <img src="assets/img/northwind_db.png" width="650">
 
