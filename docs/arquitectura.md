@@ -52,6 +52,7 @@ Product.cs
 Permite organizar el acceso a los datos en repositorios. LINQ se integra para realizar consultas de forma sencilla y mantener el código más limpio y mantenible.
 
 ***Flujo de ejecución***
+
 <img src="assets/img/arquitectura4capas.png" width="250">
 
 [← Marco Teórico](teoria.md)
