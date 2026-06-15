@@ -35,7 +35,7 @@ Order.cs
 
 Product.cs
 
-![Arquitectura](activos/imagenes/arquitectura4capas.png)
+![Sitio publicado](assets/img/arquitectura4capas.png)
 
 [← Marco Teórico](teoria.md)
 
