@@ -35,7 +35,6 @@ Order.cs
 
 Product.cs
 
-![Sitio publicado](assets/img/arquitectura4capas.png)
 
 <img src="assets/img/arquitectura4capas.png" width="450">
 
