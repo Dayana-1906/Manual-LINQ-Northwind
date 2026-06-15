@@ -50,7 +50,7 @@ clientes
 
 .Where(x=>x.Ciudad=="Quito");
 
-**Ejecución diferida**
+***Ejecución diferida***
 
 Deferred Execution
 
@@ -60,7 +60,7 @@ var consulta=
 
 clientes.Where(x=>x.Activo);
 
-**Ejecución inmediata**
+***Ejecución inmediata***
 
 .ToList()
 
@@ -68,11 +68,11 @@ clientes.Where(x=>x.Activo);
 
 .Count()
 
-**Lambda Expressions**
+***Lambda Expressions***
 
 x=>x.Nombre
 
-**Expresiones Lambda vs Query Syntax**
+***Expresiones Lambda vs Query Syntax***
 
 Comparar:
 
@@ -83,6 +83,13 @@ select c
 vs
 
 clientes.Select()
+
+| Query Syntax | Lambda Expression |
+|--------------|------------------|
+| `from c in clientes select c` | `clientes.Select(c => c)` |
+| Tiene una sintaxis similar a SQL. | Utiliza expresiones lambda y métodos de LINQ. |
+| Suele ser más fácil de leer en consultas complejas. | Generalmente es más corta y flexible. |
+| Recomendada para quienes comienzan con LINQ. | Muy utilizada en proyectos profesionales de C#. |
 
 [← Introducción](introduccion.md)
 
