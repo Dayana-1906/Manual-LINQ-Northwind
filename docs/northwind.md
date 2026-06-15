@@ -14,7 +14,7 @@ Suppliers
 - Pedido → Detalle
 - Detalle → Producto
 
-<img src="assets/img/northwind_db.png" width="500">
+<img src="assets/img/northwind_db.png" width="650">
 
 [← Arquitectura](arquitectura.md)
 
