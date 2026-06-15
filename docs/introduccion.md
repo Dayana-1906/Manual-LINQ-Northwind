@@ -1,4 +1,4 @@
-***Resumen***
+## ***Resumen***
 
 El presente manual documenta la implementación de Language Integrated Query (LINQ) dentro de una arquitectura multicapa desarrollada en C#, utilizando como fuente de datos la base Northwind.
 
@@ -9,7 +9,7 @@ Se presentan ejemplos prácticos orientados a operaciones reales sobre clientes,
 Palabras clave:
 LINQ, C#, Arquitectura Multicapa, Entity Framework, Acceso a Datos, Northwind.
 
-***Introducción***
+## ***Introducción***
 
 Actualmente las aplicaciones empresariales requieren mecanismos eficientes para consultar y transformar información.
 
@@ -22,7 +22,7 @@ Su uso dentro de arquitecturas multicapa mejora:
 • Legibilidad
 • Mantenimiento del sistema
 
-***Problema que resuelve LINQ***
+## ***Problema que resuelve LINQ***
 
 Antes:
 
@@ -35,7 +35,7 @@ Después:
 Consultas expresivas
 Menor código
 
-***Evolución del acceso a datos en .NET***
+## ***Evolución del acceso a datos en .NET***
 
 ADO.NET
 
@@ -51,7 +51,7 @@ Entity Framework
 
 LINQ + EF
 
-***Beneficios de LINQ***
+## ***Beneficios de LINQ***
 
 - Reducción de complejidad
 - Menos errores
@@ -62,11 +62,11 @@ Para este manual se emplea la base Northwind como entorno de simulación empresa
 
 <img src="assets/img/sistema_funcionando.png" width="450">
 
-***Objetivo General***
+## ***Objetivo General***
 
 Diseñar e implementar consultas LINQ dentro de una arquitectura multicapa utilizando C# y Northwind.
 
-***Objetivos Específicos***
+## ***Objetivos Específicos***
 
 - Comprender el modelo de LINQ.
 - Integrar consultas dentro de la capa de negocio.
