@@ -22,6 +22,41 @@ Su uso dentro de arquitecturas multicapa mejora:
 • Legibilidad
 • Mantenimiento del sistema
 
+Problema que resuelve LINQ
+
+Antes:
+
+Código repetitivo
+foreach extensos
+Filtrado manual
+
+Después:
+
+Consultas expresivas
+Menor código
+
+##Evolución del acceso a datos en .NET##
+
+ADO.NET
+
+↓
+
+LINQ
+
+↓
+
+Entity Framework
+
+↓
+
+LINQ + EF
+
+Beneficios de LINQ
+- Reducción de complejidad
+- Menos errores
+- Mayor mantenimiento
+- Integración con objetos
+
 Para este manual se emplea la base Northwind como entorno de simulación empresarial.
 
 <img src="assets/img/sistema_funcionando.png" width="450">
