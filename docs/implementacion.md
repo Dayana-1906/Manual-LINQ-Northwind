@@ -1,4 +1,48 @@
-***Consulta 1 — Clientes por país***
+## **Implementacion de LinQ en Northwind**
+
+## ***Flujo implementación***
+
+Conexión
+
+↓
+
+Repositorio
+
+↓
+
+LINQ
+
+↓
+
+Negocio
+
+↓
+
+UI
+
+## ***Implementación por operación***
+
+Filtrar
+
+Where()
+
+Proyectar
+
+Select()
+
+Ordenar
+
+OrderBy()
+
+Agrupar
+
+GroupBy()
+
+Relacionar
+
+Join()
+
+## ***Consulta 1 — Clientes por país***
 
 public List ObtenerClientes(string pais)
 
@@ -12,7 +56,7 @@ return contexto.Customers
 
 }
 
-***Consulta 2 — Productos ordenados***
+## ***Consulta 2 — Productos ordenados***
 
 public List Productos()
 
@@ -27,7 +71,7 @@ return contexto.Products
 }
 
 
-***Consulta 3 — Ventas agrupadas***
+## ***Consulta 3 — Ventas agrupadas***
 
 var ventas=
 
@@ -35,7 +79,7 @@ contexto.Orders
 
 .GroupBy(o=>o.CustomerID);
 
-***Consulta 4 — JOIN***
+## ***Consulta 4 — JOIN***
 
 var consulta=
 
