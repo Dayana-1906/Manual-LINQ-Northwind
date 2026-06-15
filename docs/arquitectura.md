@@ -35,6 +35,16 @@ Order.cs
 
 Product.cs
 
+### ¿Por qué LINQ debe ir en la capa de Negocio?
+
+| Punto | Explicación |
+|---------|------------|
+| **Reutilización** | Las consultas LINQ se escriben una sola vez en la capa de negocio y pueden ser utilizadas por diferentes formularios o módulos de la aplicación. |
+| **Separación** | Mantiene separada la lógica de negocio de la interfaz de usuario y del acceso a datos, facilitando el mantenimiento del código. |
+| **Escalabilidad** | Permite agregar nuevas reglas o consultas sin modificar la presentación, haciendo que el sistema crezca de forma ordenada. |
+| **Patrón Repository** | LINQ se utiliza dentro de los repositorios para consultar y filtrar datos, mientras que las demás capas consumen esos resultados sin conocer los detalles de acceso a datos. |
+| **Integración de LINQ** | LINQ se integra en la capa de negocio para procesar, filtrar, ordenar y transformar datos obtenidos desde la capa de datos antes de enviarlos a la interfaz de usuario. |
+
 <img src="assets/img/arquitectura4capas.png" width="250">
 
 [← Marco Teórico](teoria.md)
