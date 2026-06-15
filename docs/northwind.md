@@ -1,13 +1,18 @@
 ## ***Descripción del modelo Northwind***
-
 ## ***Entidades principales:***
 
 Customers
+
 Orders
+
 OrderDetails
+
 Products
+
 Categories
+
 Employees
+
 Suppliers
 
 ## ***Relaciones:***
