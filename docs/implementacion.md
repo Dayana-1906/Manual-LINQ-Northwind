@@ -55,17 +55,18 @@ o.OrderDate
 
 };
 
-![Datos](assets/img/linq_datos.png)
+<img src="assets/img/linq_datos.png" width="350">
 
-![Resultados](assets/img/resultado_linq.png)
+<img src="assets/img/resultado_linq.png" width="350">
 
 ***Consulta con JOIN***
 
-![Consulta JOIN](assets/img/linq_join.png)
+<img src="assets/img/linq_join.png" width="350">
 
 ***Consulta con GROUPBY***
 
-![Consulta JOIN](assets/img/linq_groupby.png)
+<img src="assets/img/linq_groupby.png" width="350">
+
 
 [← Northwind](northwind.md)
 
